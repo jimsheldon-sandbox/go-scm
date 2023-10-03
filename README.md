@@ -1,6 +1,6 @@
 # go-scm
 
-Yet another example change woo
+Yet another example
 
 [![Go Doc](https://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square)](http://godoc.org/github.com/drone/go-scm/scm)
 
