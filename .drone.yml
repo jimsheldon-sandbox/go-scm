@@ -1,10 +1,7 @@
 ---
 kind: pipeline
-type: vm
+type: kubernetes
 name: default
-
-pool:
-  use: ubuntu
 
 steps:
 - name: vet
